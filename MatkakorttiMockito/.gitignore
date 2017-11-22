@@ -3,4 +3,5 @@ out/
 .classpath
 .idea/
 .project
+.gradle/
 
